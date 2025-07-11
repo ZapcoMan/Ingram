@@ -121,7 +121,7 @@ optional arguments:
 + 之后对这些主机进行扫描：`python run_ingram.py -i targets.txt -o out`
 
 
-## ~~微信提醒~~(已移除)
+## 微信提醒 回到之前的版本 将这部分的功能找回来
 
 + (**可选**) 扫描时间可能会很长，如果你想让程序扫描结束的时候通过微信发送一条提醒的话，你需要按照 [wxpusher](https://wxpusher.zjiecode.com/docs/) 的指示来获取你的专属 *UID* 和 *APP_TOKEN*，并将其写入 `run_ingram.py`:
 ```python
@@ -156,7 +156,7 @@ config.set_val('WXTOKEN', '这里写token')
 </div>
 
 
-## ~~实时预览~~ (由于部分原因已移除)
+## 实时预览  回到之前的版本将这部分功能找回来
 
 - 可以直接通过浏览器登录来预览
   
