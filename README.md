@@ -158,9 +158,9 @@ config.set_val('WXTOKEN', '这里写token')
 
 ## ~~实时预览~~ (由于部分原因已移除)
 
-+ ~~可以直接通过浏览器登录来预览~~
+- 可以直接通过浏览器登录来预览
   
-+ ~~如果想批量查看，我们提供了一个脚本 `show/show_rtsp/show_all.py`，不过它还有一些问题:~~
+- 如果想批量查看，我们提供了一个脚本 `show/show_rtsp/show_all.py`，不过它还有一些问题:
 
 <div align=center>
     <img alt="Ingram" src="https://github.com/jorhelp/imgs/blob/master/Ingram/show_rtsp.png">
